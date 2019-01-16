@@ -1,15 +1,12 @@
 {
   "name": "base31",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "base31"
   ],
   "description": "Human friendly Base31 Encoding and Decoding",
   "license": "MIT",
-  "author": {
-    "name": "Karthik Divi",
-    "email": "me@karthikdivi.com"
-  },
+  "author": "Karthik Divi",
   "repository": {
     "type": "git",
     "url": "https://github.com/karthikdivi/base31.git"

@@ -12,7 +12,7 @@ A Base31 encoding and decoding library for Javascript.
 ### Usage 
 
 ```javascript
-const base31 = require('../index.js')
+const base31 = require('base31')
 
 let encodedValue = base31.encode(1547625598); // 3s3tfge
 let decodedValue = base31.decode('3s3tfge'); // 1547625598
